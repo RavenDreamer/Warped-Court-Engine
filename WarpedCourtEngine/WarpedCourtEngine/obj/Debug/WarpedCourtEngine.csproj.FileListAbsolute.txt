@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2015\Projects\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.dll
+d:\Documents\Visual Studio 2015\Projects\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.pdb
+d:\Documents\Visual Studio 2015\Projects\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.dll
+d:\Documents\Visual Studio 2015\Projects\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.pdb
+d:\documents\visual studio 2015\Projects\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csprojResolveAssemblyReference.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csprojResolveAssemblyReference.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csproj.CoreCompileInputs.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.pdb
