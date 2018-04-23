@@ -9,3 +9,9 @@ C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csproj.CoreCompileInputs.cache
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.dll
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\bin\Debug\WarpedCourtEngine.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csprojResolveAssemblyReference.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.csproj.CoreCompileInputs.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngine\WarpedCourtEngine\obj\Debug\WarpedCourtEngine.pdb

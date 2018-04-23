@@ -4,3 +4,17 @@
 *.dll
 WarpedCourtEngine/WarpedCourtEngine/obj/Debug/WarpedCourtEngine.csproj.FileListAbsolute.txt
 WarpedCourtEngine/WarpedCourtEngine/bin/Debug/WarpedCourtEngine.pdb
+WarpedCourtEngine/.vs/WarpedCourtEngine/v15/.suo
+WarpedCourtEngine/.vs/WarpedCourtEngine/v15/Server/sqlite3/storage.ide-shm
+WarpedCourtEngine/.vs/WarpedCourtEngine/v15/Server/sqlite3/storage.ide-wal
+WarpedCourtEngine/.vs/WarpedCourtEngine/v15/.suo
+WarpedCourtEngine/WarpedCourtEngine/obj/Debug/WarpedCourtEngine.csproj.FileListAbsolute.txt
+WarpedCourtEngineTest/WarpedCourtEngineTest/bin/Debug/WarpedCourtEngine.dll
+WarpedCourtEngineTest/WarpedCourtEngineTest/bin/Debug/WarpedCourtEngine.pdb
+WarpedCourtEngineTest/WarpedCourtEngineTest/bin/Debug/WarpedCourtEngineTest.dll
+WarpedCourtEngineTest/WarpedCourtEngineTest/bin/Debug/WarpedCourtEngineTest.pdb
+WarpedCourtEngineTest/WarpedCourtEngineTest/obj/Debug/WarpedCourtEngineTest.csproj.CoreCompileInputs.cache
+WarpedCourtEngineTest/WarpedCourtEngineTest/obj/Debug/WarpedCourtEngineTest.csproj.FileListAbsolute.txt
+*.cache
+WarpedCourtEngineTest/WarpedCourtEngineTest/obj/Debug/WarpedCourtEngineTest.dll
+WarpedCourtEngineTest/WarpedCourtEngineTest/obj/Debug/WarpedCourtEngineTest.pdb

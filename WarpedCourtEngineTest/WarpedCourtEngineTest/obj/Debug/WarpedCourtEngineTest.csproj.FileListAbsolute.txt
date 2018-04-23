@@ -15,3 +15,12 @@ C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngineTest\WarpedCourtEng
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngine.dll
 C:\Users\Nethe\Documents\Visual Studio 2017\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngine.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngineTest.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngineTest.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngine.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\bin\Debug\WarpedCourtEngine.pdb
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\obj\Debug\WarpedCourtEngineTest.csprojResolveAssemblyReference.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\obj\Debug\WarpedCourtEngineTest.csproj.CoreCompileInputs.cache
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\obj\Debug\WarpedCourtEngineTest.dll
+C:\Users\Nethe\Documents\Visual Studio 2017\Warped-Court-Engine\WarpedCourtEngineTest\WarpedCourtEngineTest\obj\Debug\WarpedCourtEngineTest.pdb
